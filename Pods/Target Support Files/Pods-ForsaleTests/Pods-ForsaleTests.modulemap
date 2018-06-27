@@ -1,0 +1,6 @@
+framework module Pods_ForsaleTests {
+  umbrella header "Pods-ForsaleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
